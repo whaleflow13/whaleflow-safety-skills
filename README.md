@@ -31,6 +31,6 @@ python rag-corpus-guard/scripts/scan_corpus.py corpora/my-bot --domain example.r
 - Проверяйте только своих ботов или ботов, владелец которых дал согласие.
 
 ## Автор
-Делаю ИИ-администраторов заявок для сервисного бизнеса — WhaleFlow. [ссылка на профиль]
+Делаю ИИ-администраторов заявок для сервисного бизнеса — WhaleFlow. https://whaleflow.agency/
 
 Лицензия: MIT
